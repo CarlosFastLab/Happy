@@ -12,3 +12,4 @@ Landing Page da aplicação.
 
 ### Tela de mapa de orfanatos
 ![Image of Map Page](./src/images/prints/mapa.jpg)
+Tela de mapa de orfanatos. Utilização do mapbox, com token arquivado em variável local protegida.
